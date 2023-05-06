@@ -1,0 +1,9 @@
+{
+  "input_interfaces": [
+    "oct-image"
+  ],
+  "output_interfaces": [
+    "probability-poag"
+  ],
+  "roi_segmentation_interface": null
+}
